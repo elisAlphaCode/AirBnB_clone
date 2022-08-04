@@ -37,7 +37,7 @@ Requirements for Python scripts
 
 ## Requirements for Python unit tests
 
-For this project, you will create unit tests, not doctest:
+   For this project, you will create unit tests, not doctest:
 
     * Allowed editors: vi, vim, emacs
     * All your files should end with a new line
@@ -56,7 +56,7 @@ For this project, you will create unit tests, not doctest:
 
     * At the end of this project students are expected to be able to - explain to anyone, without the help of Google:
     * How to create a Python package
-    - How to create a command interpreter in Python using the cmd   module
+    * How to create a command interpreter in Python using the cmd   module
     * What is Unit testing and how to implement it in a large project
     * How to serialize and deserialize a Class
     * How to write and read a JSON file
@@ -70,7 +70,7 @@ For this project, you will create unit tests, not doctest:
 # Getting Started
 ## Installation
 
-To use this project:
+   To use this project:
 
     1. Clone
 
