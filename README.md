@@ -24,7 +24,7 @@ AirBnB clone is a complete web application, integrating database storage, a back
 Requirements for Python scripts
 
    * Allowed editors: vi, vim, emacs
-   - All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+   * All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
     * All your files should end with a new line
     * The first line of all your files should be exactly #!/usr/bin/python3
     * A README.md file, at the root of the folder of the project, is mandatory
@@ -36,8 +36,7 @@ Requirements for Python scripts
     * All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 
 ## Requirements for Python unit tests
-
-   For this project, you will create unit tests, not doctest:
+For this project, you will create unit tests, not doctest:
 
     * Allowed editors: vi, vim, emacs
     * All your files should end with a new line
